@@ -1,0 +1,10 @@
+INICIAR PROYECTO
+
+npm start
+
+
+PRUEBAS
+https://jestjs.io = pagina de la documentaion de las pruebas
+0 - ir a doc/Apirefence/expect = ahi encuentro todos los metodos que pueod usar
+1 - npm run test = esto va a buscar los archivos .test.js y los ejecuta
+2 - 
