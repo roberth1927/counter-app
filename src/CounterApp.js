@@ -5,7 +5,6 @@ const CounterApp = ({value = 10}) => {
 
   const [counter, setCounter] = useState(value);
 
-
   //handleADD
   const handleAdd = () => {
     setCounter(counter + 1)
